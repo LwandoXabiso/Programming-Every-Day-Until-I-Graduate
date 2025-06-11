@@ -4,6 +4,6 @@ This repository document my daily programming journey leading up to my graduatio
 Join me as I commit to growth, one line of code at a time.🔥🧠
 
 ## My Mission 🎯
-📆 Daily goals
+📆 Daily goals <br/>
 💻 Java, C#, OOP, and more.
 
